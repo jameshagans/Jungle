@@ -16,8 +16,9 @@ Rails.application.routes.draw do
   namespace :admin do
     root to: 'dashboard#show'
     resources :products, except: [:edit, :update, :show]
-    resources :categories, only: [:edit, :update, :show]
+    resources :categories, shallow: true
   end
+  
 
   get '/login' => 'sessions#new'
   post '/login' => 'sessions#create'
