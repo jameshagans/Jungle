@@ -2,6 +2,14 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Screenshots
+
+!["View the Products Page as a customer"]()
+
+!["View My Cart page as a customer"]()
+
+!["The Admin page where you can view the products"]()
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
