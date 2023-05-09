@@ -4,11 +4,11 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Screenshots
 
-!["View the Products Page as a customer"]()
+!["View the Products Page as a customer"](https://raw.githubusercontent.com/jameshagans/Jungle/master/Docs/Jungle-products-page.png)
 
-!["View My Cart page as a customer"]()
+!["View My Cart page as a customer"](https://raw.githubusercontent.com/jameshagans/Jungle/master/Docs/Jungle-cart.png)
 
-!["The Admin page where you can view the products"]()
+!["The Admin page where you can view the products"](https://raw.githubusercontent.com/jameshagans/Jungle/master/Docs/Jungle-admin-products.png)
 
 ## Setup
 
